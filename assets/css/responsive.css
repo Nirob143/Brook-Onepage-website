@@ -1,0 +1,113 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ button {
+	right: 182px;
+	top: 101px;
+	padding: 3px 10px;
+}
+.test-img2 {
+	right: 255px;
+	top: 18px;
+}
+.test-img1 {
+	left: 258px;
+	top: 20px;
+}
+
+
+
+
+	}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .video-icon {
+	font-size: 95px;
+	position: absolute;
+	color: red;
+	left: 341px;
+	top: -300px;
+}
+.single-client {
+	text-align: center;
+	margin-bottom: 45px;
+}
+.test-img1 {
+	left: 431px;
+	top: 13px;
+}
+.test-img2 {
+	right: 431px;
+	top: 18px;
+}
+.content-test p {
+	font-size: 18px;
+	margin: 20px 0;
+}
+.single-footer {
+	text-align: left;
+	margin-bottom: 50px;
+}
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+ .slider-content h1 {
+	font-size: 21px;
+}
+ .pt-80 {
+	padding-top: 0;
+}
+.about-left h4 {
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+.about-left p {
+	font-size: 15px;
+} 
+.about-img {
+	margin-top: 40px;
+}
+.video-left h4 {
+	font-size: 20px;
+	margin-top: 0;
+} 
+.section-title h4 {
+	font-size: 20px;
+}
+.section-title p {
+	font-size: 15px;
+}
+.single-port h4 {
+	font-size: 18px;
+}
+.single-port h4 span {
+	font-size: 18px;
+}
+.single-client p {
+	font-size: 16px;
+}
+.content-test p {
+	font-size: 14px;
+	margin: 0;
+}
+.single-footer ul li a {
+	font-size: 18px;
+	padding-left: 10px;
+}
+.single-footer h4 {
+	font-size: 20px;
+}
+.owl-dots {
+  right: 0;
+
+}
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
